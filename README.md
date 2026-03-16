@@ -3,6 +3,8 @@
 KareChat 팀을 위한 Claude Code 커스텀 플러그인입니다.
 Google 스프레드시트에서 복사한 API 명세를 Markdown 문서로 자동 변환하고, Notion에 페이지를 생성합니다.
 
+<video src="assets/karechat-api-converter-intro.mp4" controls width="100%"></video>
+
 ---
 
 ## 무엇을 해주나요?
