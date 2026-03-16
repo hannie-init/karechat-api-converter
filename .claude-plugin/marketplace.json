@@ -1,6 +1,8 @@
 {
   "name": "karechat-api-converter",
-  "version": "1.0.0",
+  "owner": {
+    "name": "hannie-init"
+  },
   "plugins": [
     {
       "name": "karechat-api-converter",
