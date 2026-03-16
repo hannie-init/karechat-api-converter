@@ -1,0 +1,12 @@
+{
+  "name": "karechat-api-converter",
+  "owner": { "name": "hannie.init" },
+  "plugins": [
+    {
+      "name": "karechat-api-converter",
+      "source": { "source": "local", "path": "." },
+      "version": "1.0.0",
+      "description": "API 명세 → Markdown 변환 + Notion 업로드"
+    }
+  ]
+}
