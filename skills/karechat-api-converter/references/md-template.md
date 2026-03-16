@@ -56,9 +56,7 @@ curl --location '{baseURL}/api/dfd/v1/{path}' \
 | err_cd | String | 조건부 | 에러 코드 | "EBCOM001" |
 | err_msg | String | 조건부 | 에러 메세지 | "데이터를 조회하는 동안 에러가 발생했습니다." |
 | data | Object/String | 필수 | 데이터 정보 | |
-| &nbsp;&nbsp;{child_field} | {타입} | {필수여부} | {설명} | "{예시}" |
-
-> List 타입 필드의 자식 필드는 `&nbsp;&nbsp;` 들여쓰기로 표현
+| {child_field} | {타입} | {필수여부} | {설명} | "{예시}" |
 
 ### 예시
 

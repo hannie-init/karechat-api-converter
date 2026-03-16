@@ -33,7 +33,7 @@ Common error fields: `succeed`, `err_cd`, `err_msg`
 
 ### Nested fields (indentation)
 Fields with a non-empty 부모필드 column are children of the named parent.
-In the MD table, show them with indentation using `&nbsp;&nbsp;` prefix on the field name.
+In the MD table, show the field name as-is — do NOT add any `&nbsp;&nbsp;` or other indentation prefix.
 In mock JSON, nest them under their parent object/array.
 
 ## Field Extraction Rules
