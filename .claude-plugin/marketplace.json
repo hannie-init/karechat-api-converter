@@ -1,0 +1,14 @@
+{
+  "name": "karechat-api-converter",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "karechat-api-converter",
+      "description": "KareChat team plugin for converting API specifications from Google Spreadsheet to Markdown and Notion",
+      "source": {
+        "source": "github",
+        "repo": "hannie-init/karechat-api-converter"
+      }
+    }
+  ]
+}
