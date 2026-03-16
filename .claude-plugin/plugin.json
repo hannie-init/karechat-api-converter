@@ -4,6 +4,5 @@
   "version": "1.0.0",
   "author": {
     "name": "hannie.init"
-  },
-  "skills": [{ "source": "skills/karechat-api-converter" }]
+  }
 }

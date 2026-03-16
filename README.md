@@ -26,7 +26,8 @@ git clone https://github.com/hannie-init/karechat-api-converter.git ~/.claude/pl
 Claude Code에서 아래 명령어를 실행하세요.
 
 ```
-/plugin install ~/.claude/plugins/karechat-api-converter
+/plugin marketplace add ~/.claude/plugins/karechat-api-converter
+/plugin install karechat-api-converter@karechat-api-converter
 ```
 
 ### 3. 설치 확인
